@@ -1,1 +1,1 @@
-# gaming-landingpage
+# Simple gaming-landingpage
